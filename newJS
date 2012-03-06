@@ -2,7 +2,8 @@ var Puzzle =
 {
 init: function(){
   return
-}
+},
+ run: function(){}
 }
 
 
