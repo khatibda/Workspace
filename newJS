@@ -1,9 +1,10 @@
-var Puzzle = 
-{
+/** adding comments **/
+var Puzzle = {
 init: function(){
   return
 },
  run: function(){}
+
 }
 
 
