@@ -1,2 +1,8 @@
-var Puzzle = {}
+var Puzzle = 
+{
+init: function(){
+  return
+}
+}
+
 
